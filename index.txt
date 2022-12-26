@@ -1,0 +1,29 @@
+Day 1: Printing in Python.
+Day 2: Printing in Python.
+Day 3: Module Importing Python.
+Day 4: Print Method.
+Day 5: Comments and Escape sequences.
+Day 6: Data types and Variables.
+Day 7: Exercise 1 Calculator.
+Day 8: Solution exercise 1.
+Day 9: Type Casting.
+Day 10: Taking User input.
+Day 11: String.
+Day 12: String Methods.
+Day 13: More String Methods.
+Day 14: If else statements.
+Day 15: Exercise 2 Greetings.
+Day 16: Match case statements.
+Day 17: For Loops.
+Day 18: While Loops.
+Day 19: Break and Continue statements.
+Day 20: Function in Python.
+Day 21: Function arguments and return.
+Day 22: Lists.
+Day 23: Lists methods.
+Day 24: Tuples.
+Day 25: Tuples methods.
+Day 26: Solution of Exercise 2.
+Day 27: Exercise 3 KBC Quiz.
+Day 28: f strings in Python.
+Day 29: Doc Strings.
