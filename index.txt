@@ -28,3 +28,4 @@ Day 27: Exercise 3 KBC Quiz.
 Day 28: f strings in Python.
 Day 29: Doc Strings.
 Day 30: Recursion in Python.
+Day 31: Sets.
