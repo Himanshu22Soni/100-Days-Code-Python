@@ -30,3 +30,6 @@ Day 29: Doc Strings.
 Day 30: Recursion in Python.
 Day 31: Sets.
 Day 32: Sets methods.
+Day 33: Dictionaries.
+Day 34: Dictionaries methods.
+Day 35: For loop with else statements.
