@@ -34,3 +34,5 @@ Day 33: Dictionaries.
 Day 34: Dictionaries methods.
 Day 35: For loop with else statements.
 Day 36: Exception handling.
+Day 37: Finally keyword in Python.
+Day 38: Raising custom error.
