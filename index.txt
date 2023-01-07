@@ -36,3 +36,6 @@ Day 35: For loop with else statements.
 Day 36: Exception handling.
 Day 37: Finally keyword in Python.
 Day 38: Raising custom error.
+Day 39: Exercise 3 KBC Quiz Solution.
+Day 40: Exercise 4 Secret Code question and my solution.
+Day 41: Short hand if else statement.
