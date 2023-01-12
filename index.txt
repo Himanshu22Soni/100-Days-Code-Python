@@ -42,4 +42,5 @@ Day 41: Short hand if else statement.
 Day 42: Enumerate Function.
 Day 43: Virtual Environment in Python.
 Day 44: How Import works in Python.
-day 45: if __name__ == '__main__'
+Day 45: if __name__ == '__main__'
+Day 46: OS Module in Python.
