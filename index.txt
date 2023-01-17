@@ -45,3 +45,6 @@ Day 44: How Import works in Python.
 Day 45: if __name__ == '__main__'
 Day 46: OS Module in Python.
 Day 47: Solution of exercise 4
+Day 48: Local & global variables in Python.
+Day 49: File IO in Python.
+Day 50: read(), readlines() and other methods.
