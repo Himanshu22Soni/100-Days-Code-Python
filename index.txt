@@ -50,3 +50,6 @@ Day 49: File IO in Python.
 Day 50: read(), readlines() and other methods.
 Day 51: More file IO methods in Python.
 Day 52: Lambda functions.
+Day 53: Map, Filter, and Reduce functions
+Day 54: is vs "==" in Python.
+Day 55: Exercise 05 Snake water gun.
