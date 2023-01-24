@@ -53,3 +53,5 @@ Day 52: Lambda functions.
 Day 53: Map, Filter, and Reduce functions
 Day 54: is vs "==" in Python.
 Day 55: Exercise 05 Snake water gun.
+Day 56: OOP in Python.
+Day 57: Classes and Objects.
