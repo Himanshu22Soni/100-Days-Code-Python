@@ -57,3 +57,5 @@ Day 56: OOP in Python.
 Day 57: Classes and Objects.
 Day 58: Constructors in Classes.
 Day 59: Decorators in Classes.
+Day 60: Getters and Setters.
+Day 61: Inheritance in Classes.
