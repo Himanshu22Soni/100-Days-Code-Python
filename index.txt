@@ -59,3 +59,6 @@ Day 58: Constructors in Classes.
 Day 59: Decorators in Classes.
 Day 60: Getters and Setters.
 Day 61: Inheritance in Classes.
+Day 62: Access Specifiers.
+Day 63: Solution of Day 55 Exercise.
+Day 64: Exercise 06 Library Management.
