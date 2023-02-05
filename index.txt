@@ -62,3 +62,9 @@ Day 61: Inheritance in Classes.
 Day 62: Access Specifiers.
 Day 63: Solution of Day 55 Exercise.
 Day 64: Exercise 06 Library Management.
+Day 65: Static Methods in Python.
+Day 66: Instance variables vs Class variables.
+Day 67: Exercise 06 Solution of Day 64.
+Day 68: Exercise 07 Clear the Clutter.
+Day 69: Class Methods.
+Day 70: Class Methods as Alternative Constructors in Python.
