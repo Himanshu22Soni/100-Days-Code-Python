@@ -68,3 +68,4 @@ Day 67: Exercise 06 Solution of Day 64.
 Day 68: Exercise 07 Clear the Clutter.
 Day 69: Class Methods.
 Day 70: Class Methods as Alternative Constructors in Python.
+Day 71: dir, __dict__ and help methods in Python.
