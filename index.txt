@@ -72,3 +72,4 @@ Day 71: dir, __dict__ and help methods in Python.
 Day 72: Super keyword in Python.
 Day 73: Magic or Dunder methods.
 Day 74: Method Overridings in Python.
+Day 75: Exercise 07 Solution of Day 68.
