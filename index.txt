@@ -78,3 +78,8 @@ Day 77: Operator overloading in Python.
 Day 78: Single Inheritance in Classes.
 Day 79: Multiple Inheritance.
 Day 80: Multilevel Inheritance in Classes.
+Day 81: Hybrid and Hierarchial Inheritance.
+Day 82: Solution of Exercise 08 Day 76.
+Day 83: Exercise 09 Shoutout to Everyone.
+Day 84: Time Module in Python.
+Day 85: Command Line Utility in python.
