@@ -83,3 +83,5 @@ Day 82: Solution of Exercise 08 Day 76.
 Day 83: Exercise 09 Shoutout to Everyone.
 Day 84: Time Module in Python.
 Day 85: Command Line Utility in python.
+Day 86: Walrus Operator.
+Day 87: Shutil Module in Python.
