@@ -89,3 +89,6 @@ Day 88: Solution of Exercise 09 Day 83.
 Day 89: Request Module in Python.
 Day 90: Exercise 10 NewsApi.
 Day 91: Generators in Python.
+Day 92: Function Caching.
+Day 93: Solution of Exercise 10 Day 90.
+Day 94: Exercise 11 Water Drink Reminder.
