@@ -92,3 +92,9 @@ Day 91: Generators in Python.
 Day 92: Function Caching.
 Day 93: Solution of Exercise 10 Day 90.
 Day 94: Exercise 11 Water Drink Reminder.
+Day 95: Regular Expression in Python.
+Day 96: AsyncIO in Python.
+Day 97: MultiThreading in Python.
+Day 98: MultiProcessing in Python.
+Day 99: Solution of Exercise 11 Day 94.
+Day 100: Conclusion.
